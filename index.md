@@ -1,9 +1,3 @@
-
----
-layout: default
-title: Minhyeok Kang
----
-
 # Minhyeok Kang
 
 📍 Seoul, South Korea  
