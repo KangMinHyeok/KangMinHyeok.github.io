@@ -5,6 +5,7 @@ title: Minhyeok Kang
 ---
 
 # Minhyeok Kang
+
 📍 Seoul, South Korea  
 📧 [alsgur434@gmail.com](mailto:alsgur434@gmail.com)  
 🔗 [Homepage](https://mmlab.snu.ac.kr/~mhkang) | [LinkedIn](https://www.linkedin.com/in/minhyeok-kang/) | [GitHub](https://github.com/KangMinHyeok)
@@ -33,15 +34,15 @@ Mar 2012 – Jul 2017
 
 ---
 
-## 🔬 Research and Projects (Selected)
+## 🔬 Research and Projects
 
-**IRRedicator – NDSS 2024**  
+### IRRedicator – NDSS 2024  
 Conducted a comprehensive 12-year longitudinal study on BGP traces using Spark and HDFS to investigate routing security inconsistencies between RPKI and IRR. Filtered 58% of stale IRR route objects using an ensemble model, achieving 93% BGP validation accuracy.
 
-**FASTEN – IoT Security Framework (PL)**  
+### FASTEN – IoT Security Framework (PL)  
 Developed a framework enabling secure communication between IoT devices and applications with 0-RTT data transmission, enhancing data protection and performance.
 
-**Next-generation Cloud-native Cellular Network Leadership Program - 5G/O-RAN Security**  
+### Next-generation Cloud-native Cellular Network Leadership Program - 5G/O-RAN Security  
 Analyzed 5G/O-RAN architecture vulnerabilities through strategic attack/defense design. Demonstrated a signaling storm attack targeting the control unit to reveal security weaknesses.
 
 ---
